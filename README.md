@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on creating new projects for a Portofolio.
 - 🌱 I’m currently learning Python3 at Alura.
 - 👯 I’m looking to collaborate on Projects with Python.
