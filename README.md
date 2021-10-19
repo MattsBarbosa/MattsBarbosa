@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on creating new projects for a Portofolio.
-- 🌱 I’m currently learning Python3 at Alura.
+- 🌱 I’m currently learning Python3/Django at Alura.
 - 👯 I’m looking to collaborate on Projects with Python.
 - 🤔 I’m looking for help with getting my first job as a dev.
 - 💬 Ask me about anything.
