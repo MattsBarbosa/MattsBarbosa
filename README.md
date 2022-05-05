@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on new projects with Python3/Django.
+- 🔭 I’m currently working on new projects.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Whatsapp +55 (47) 991268180
