@@ -1,9 +1,9 @@
 <div display="inline-block">
- 
  <h3 align="center">  💻 I'm a Full Stack Software Developer </h3>
+  <p align="center">I`m currently working as a Front-end Developer.</p>
+  <p align="center">My coding tecnologies are `.js`, `Vue.js`, `Php` and `Laravel`.</p>
 </div>
-  I`m currently working as a Front-end Developer.
-  My coding tecnologies are `.js`, `Vue.js`, `Php` and `Laravel`.  
+<br>
 <div align="center"  display="inline-block">
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattsBarbosa&layout=compact&langs_count=7&theme=dracula"/>
