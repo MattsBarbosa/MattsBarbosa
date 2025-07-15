@@ -1,7 +1,7 @@
 <div display="inline-block">
  <h3 align="center">  💻 I'm a Full Stack Software Developer </h3>
   <p align="center">I`m currently working as a Front-end Developer.</p>
-  <p align="center">My coding tecnologies are `.js`, `Vue.js`, `Php` and `Laravel`.</p>
+  <p align="center">My coding tecnologies are <code>.js</code>, <code>Vue.js</code>, <code>php</code>, <code>Laravel</code> and <code>Java</code>.</p>
 </div>
 <br>
 <div align="center"  display="inline-block">
@@ -10,3 +10,4 @@
  <br>
   <a  href="https://www.linkedin.com/in/dev-matheus-barbosa/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
+
